@@ -1,0 +1,140 @@
+@article{p_liang,
+author = {P.Liang and G.Teodoro and H.Ling and E.Blasch and G.Chen and L.Bai},
+title = {Multiple Kernel Learning for vehicle detectionin wide area motion imagery},
+journal = {Information Fusion},
+volume = 2, 
+number = 3, 
+pages = {1629--1636}, 
+year = 2012
+}
+
+@article{kembhavi,
+author = {A.Kembhavi and D.Harwood and L.S.Davis},
+title = {Vehicle Detection Using Partial Least Squares},
+journal = {Pattern Analysis and Machine Intelligence,IEEE Transactions on Image Processing},
+volume = 33, 
+number = 6, 
+pages = {1250--1265}, 
+year = 2011
+}
+
+@article{eikvil,
+author = {L.Eikvil and L.Aurdal and H.Koren},
+title = {Classification-based Vehicle Detection in High resolution satellite images},
+journal = {ISPRS Journal of photogrammetry and remote sensing},
+volume = 64, 
+number = 1, 
+pages = {65--72}, 
+year = 2009
+}
+
+@article{t_zhao,
+author = {T.Zhao and R.Nevatia and Y.Bengio and P.Haffner},
+title = {Car detection in low resolution aerial images},
+journal = {Proc. IEEE Init. Conf. Comput. Vis.},
+volume = 1, 
+number = 11, 
+pages = {710--717}, 
+year = 2001
+}
+
+
+@article{lenet,
+author = {Y.LeCun and L.Bottou and Y.Bengio and P.Haffner},
+title = {Gradient-based learning applied to document recognition},
+journal = {Proc. IEEE},
+volume = 86, 
+number = 11, 
+pages = {2278--2324}, 
+year = 1998
+}
+
+@article{alexnet,
+author = {A.Krizhevsky and I.Sutskever and G.Hinton and P.Haffner},
+title = {Imagenet classification with deep convolutional neural networks},
+journal = {Advances in Neural Information Processing Systems},
+volume = 86, 
+number = 11, 
+pages = {2278--2324}, 
+year = 2012
+}
+
+@article{ilsvrc,
+author = {J.Deng and A.Berg and S.Satheesh and H.Su and A.Khosla and L.FeiFei},
+title = {IILSVRC-2012},
+journal = {http://www.imagenet.org/challenges/LSVRC/2012/},
+volume = 86, 
+number = 11, 
+pages = {2278--2324}, 
+year = 2012
+}
+
+@article{xychen-hy,
+author = {A. Alpher and and J.~P.~N. Fotheringham-Smythe},
+title = {Frobnication revisited},
+journal = {Journal of Foo},
+volume = 13, 
+number = 1, 
+pages = {234--778}, 
+year = 2003
+}
+
+@article{xychen-pa,
+author = {X.Y.Chen and S.M.Xiang and C.L.Liu and C.H.Pan},
+title = {Vehicle Detection in Satellite Images by Parallel Deep Convolutional Neural Networks},
+journal = {Proc. 2nd},
+volume = 14, 
+number = 1, 
+pages = {234--778}, 
+year = 2004
+}
+
+@article{jiangqilin,
+author = {A. Alpher and and J.~P.~N. Fotheringham-Smythe},
+title = {Frobnication revisited},
+journal = {Journal of Foo},
+volume = 13, 
+number = 1, 
+pages = {234--778}, 
+year = 2003
+}
+
+@article{qushenquan,
+author = {X.Y.Chen and S.M.Xiang and C.L.Liu and C.H.Pan},
+title = {Vehicle Detection in Satellite Images by Parallel Deep Convolutional Neural Networks},
+journal = {Proc. 2nd},
+volume = 14, 
+number = 1, 
+pages = {234--778}, 
+year = 2004
+}
+
+@article{rcnn,
+author = {A. Alpher and and J.~P.~N. Fotheringham-Smythe},
+title = {Frobnication revisited},
+journal = {Journal of Foo},
+volume = 13, 
+number = 1, 
+pages = {234--778}, 
+year = 2003
+}
+
+@article{fast-rcnn,
+author = {X.Y.Chen and S.M.Xiang and C.L.Liu and C.H.Pan},
+title = {Vehicle Detection in Satellite Images by Parallel Deep Convolutional Neural Networks},
+journal = {Proc. 2nd},
+volume = 14, 
+number = 1, 
+pages = {234--778}, 
+year = 2004
+}
+
+@article{faster-rcnn,
+author = {X.Y.Chen and S.M.Xiang and C.L.Liu and C.H.Pan},
+title = {Vehicle Detection in Satellite Images by Parallel Deep Convolutional Neural Networks},
+journal = {Proc. 2nd},
+volume = 14, 
+number = 1, 
+pages = {234--778}, 
+year = 2004
+}

@@ -1,0 +1,120 @@
+\begin{thebibliography}{10}
+
+\bibitem{t_zhao}
+T.Zhao, R.Nevatia:
+\newblock Car detection in low resolution aerial images.
+\newblock Image and Vision Computing \textbf{2} (2003)  693--703
+
+\bibitem{eikvil}
+L.Eikvil, L.Aurdal, H.Koren:
+\newblock Classification-based vehicle detection in high-resolution satellite
+  images.
+\newblock ISPRS Journal of Photogrammetry and Remote Sensing \textbf{64} (2009)
+   65--72
+
+\bibitem{p_liang}
+P.Liang, G.Teodoro, H.Ling, E.Blasch, G.Chen, L.Bai:
+\newblock Multiple kernel learning for vehicle detectionin in wide area motion
+  imagery.
+\newblock Proceedings of the 15th International Conference on Information
+  Fusion (2012)  1629--1636
+
+\bibitem{kembhavi}
+A.Kembhavi, D.Harwood, L.S.Davis:
+\newblock Vehicle detection using partial least squares.
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence
+  \textbf{33} (2011)  1250--1265
+
+\bibitem{alexnet}
+A.Krizhevsky, I.Sutskever, G.Hinton:
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock Advances in Neural Information Processing Systems \textbf{25} (2012)
+
+\bibitem{ilsvrc}
+O.Russakovsky, J.Deng, H.Su, J.Krause, S.Satheesh, S.Ma, Z.Huang, A.Karpathy,
+  A.Khosla, M.Bernstein, A.C.Berg, L.Fei-Fei:
+\newblock Imagenet large scale visual recognition challenge.
+\newblock International Journal of Computer Vision \textbf{115} (2015)
+  211--252
+
+\bibitem{jiangqilin}
+Q.Jiang, L.Cao, M.Cheng, C.Wang, J.Li:
+\newblock Deep neural networks-based vehicle detection in satellite images.
+\newblock International Symposium on Bioelectronics and Bioinformatics (2015)
+  184--187
+
+\bibitem{qushenquan}
+S.Qu, Y.Wang, G.Meng, C.Pan:
+\newblock Vehicle detection in satellite images by incorporating objectness and
+  convolutional neural network.
+\newblock Journal of Industrial and Intelligent Information Vol \textbf{4}
+  (2016)
+
+\bibitem{xychen-hy}
+X.Chen, S.Xiang, C.Liu, C.Pan:
+\newblock Vehicle detection in satellite images by hybrid deep convolutional
+  neural networks.
+\newblock IEEE Geoscience and Remote Sensing Letters \textbf{11} (2014)
+  1797--1801
+
+\bibitem{xychen-pa}
+X.Chen, S.Xiang, C.Liu, C.Pan:
+\newblock Vehicle detection in satellite images by parallel deep convolutional
+  neural networks.
+\newblock Proceedings of the 2nd IAPR Asian Conference on Pattern Recognition
+  \textbf{14} (2013)  181--185
+
+\bibitem{faster-rcnn}
+S.Ren, K.He, R.Girshick, J.Sun:
+\newblock Faster r-cnn:towards real-time object detection with region proposal
+  networks.
+\newblock Advances in Neural Information Processing Systems (2015)  91--99
+
+\bibitem{fcn}
+J.Long, E.Shelhamer, T.Darrell:
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition (2015)  3431--3440
+
+\bibitem{zfnet}
+M.D.Zeiler, R.Fergus:
+\newblock Visualizing and understanding convolutional neural networks.
+\newblock European Conference on Computer Vision (2014)  818--833
+
+\bibitem{lecun89}
+Y.LeCun, B.Boser, J.S.Denker, D.Henderson, R.E.Howard, W.Hubbard, L.D.Jackel:
+\newblock Backpropagation applied to handwritten zip code recognition.
+\newblock Neural Computation \textbf{1} (1989)  541--551
+
+\bibitem{fast-rcnn}
+R.Girshick:
+\newblock Fast r-cnn.
+\newblock Proceedings of the IEEE International Conference on Computer Vision
+  (2015)  1440--1448
+
+\bibitem{caffe}
+Y.Jia, E.Shelhamer, J.Donahue, S.Karayev, J.Long, R.Girshick, S.Guadarrama,
+  T.Darrell:
+\newblock Caffe:convolutional architecture for fast feature embedding.
+\newblock Proceedings of the 22nd ACM International onference on Multimedia
+  (2014)  675--678
+
+\bibitem{hogsvm}
+D.Dalal, B.Triggs:
+\newblock Histogram of oriented gradients for human detection.
+\newblock Proceedings of the IEEE Conference on Computer Vision and Pattern
+  Recognition \textbf{1} (2005)  886--893
+
+\bibitem{lbpsvm}
+T.Ojala, M.Pietikainen, T.Maenpaa:
+\newblock Multiresolution gray scale and rotation invariant texture
+  classification with local binary patterns.
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence
+  \textbf{24} (2002)  971--987
+
+\bibitem{adaboost}
+P.Viola, M.J.Jones:
+\newblock Robust real-time face detection.
+\newblock International Journal of Computer Vision \textbf{57} (2004)  137--154
+
+\end{thebibliography}
