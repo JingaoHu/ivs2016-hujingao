@@ -70,6 +70,16 @@ S.Ren, K.He, R.Girshick, J.Sun:
   networks.
 \newblock Advances in Neural Information Processing Systems (2015)  91--99
 
+\bibitem{multibox}
+C.Szegedy, S.Reed, D.Erhan, D.Anguelov:
+\newblock Scalable, high-quality object detection.
+\newblock arXiv:1412.1441 (v1) (2015)
+
+\bibitem{deepmask}
+P.Pinheiro, R.Collobert, P.Dollar:
+\newblock Learning to segment object candidates.
+\newblock NIPS (2015)
+
 \bibitem{fcn}
 J.Long, E.Shelhamer, T.Darrell:
 \newblock Fully convolutional networks for semantic segmentation.

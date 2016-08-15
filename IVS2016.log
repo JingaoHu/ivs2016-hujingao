@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.7.6)  15 JUL 2016 14:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.7.6)  15 AUG 2016 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -280,6 +280,9 @@ LaTeX Warning: Label `table:headings' multiply defined.
 
 LaTeX Warning: Label `fig:example' multiply defined.
 
+
+LaTeX Warning: Label `table:headings' multiply defined.
+
 )
 \openout1 = `IVS2016.aux'.
 
@@ -295,50 +298,60 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+
+Title too long for running head. Please supply
+a shorter form with \titlerunning prior to \maketitle
+[1
 
 
-]
+] [2]
 File: framework.eps Graphic file (type eps)
- <framework.eps>
-[2] [3]
+ <framework.eps> [3]
 
-LaTeX Warning: Command \L invalid in math mode on input line 111.
+LaTeX Warning: Command \L invalid in math mode on input line 113.
 
 [4]
 File: results.eps Graphic file (type eps)
- <results.eps> [5] (./IVS2016.bbl [6]
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+ <results.eps> [5] [6] (./IVS2016.bbl [7]
+Underfull \hbox (badness 10000) in paragraph at lines 95--98
 []\OT1/cmr/m/n/9 Y.LeCun, B.Boser, J.S.Denker, D.Henderson, R.E.Howard, W.Hubba
 rd,
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 85--88
+Underfull \hbox (badness 1028) in paragraph at lines 95--98
 \OT1/cmr/m/n/9 L.D.Jackel:  Back-prop-a-ga-tion ap-plied to hand-writ-ten zip c
 ode recog-ni-tion.
  []
 
-) [7] (./IVS2016.aux)
+) [8] (./IVS2016.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2391 strings out of 493305
- 29273 string characters out of 6139898
+ 2410 strings out of 493305
+ 29587 string characters out of 6139898
  93681 words of memory out of 5000000
- 5837 multiletter control sequences out of 15000+600000
+ 5853 multiletter control sequences out of 15000+600000
  10267 words of font info for 40 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,10n,26p,1495b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,10n,26p,1497b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on IVS2016.dvi (7 pages, 28028 bytes).
+Output written on IVS2016.dvi (8 pages, 31100 bytes).
