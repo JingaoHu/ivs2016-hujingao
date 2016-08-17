@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.7.6)  15 AUG 2016 21:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2016.7.6)  17 AUG 2016 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,16 +326,20 @@ File: framework.eps Graphic file (type eps)
 
 LaTeX Warning: Command \L invalid in math mode on input line 113.
 
-[4]
+
+Underfull \vbox (badness 8038) has occurred while \output is active []
+
+ [4]
 File: results.eps Graphic file (type eps)
- <results.eps> [5] [6] (./IVS2016.bbl [7]
-Underfull \hbox (badness 10000) in paragraph at lines 95--98
+
+<results.eps> [5] [6] (./IVS2016.bbl [7]
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
 []\OT1/cmr/m/n/9 Y.LeCun, B.Boser, J.S.Denker, D.Henderson, R.E.Howard, W.Hubba
 rd,
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 95--98
+Underfull \hbox (badness 1028) in paragraph at lines 88--91
 \OT1/cmr/m/n/9 L.D.Jackel:  Back-prop-a-ga-tion ap-plied to hand-writ-ten zip c
 ode recog-ni-tion.
  []
@@ -346,12 +350,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2410 strings out of 493305
- 29587 string characters out of 6139898
+ 2409 strings out of 493305
+ 29575 string characters out of 6139898
  93681 words of memory out of 5000000
- 5853 multiletter control sequences out of 15000+600000
+ 5852 multiletter control sequences out of 15000+600000
  10267 words of font info for 40 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,10n,26p,1497b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,10n,26p,1305b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on IVS2016.dvi (8 pages, 31100 bytes).
+Output written on IVS2016.dvi (8 pages, 30624 bytes).
